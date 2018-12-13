@@ -15,7 +15,7 @@ Após você executar os seguintes códido acima, ira aparecer  algumas opções,
 -  Use a popular style guide 
 -  Airbnb (https://github.com/airbnb/javascript)
 
-### Step III
+### III Step
 > Você deve em seguida adicionar o plugin **ESLint** no seu edito de texto e
 > depois no arquivo **.eslintrc.json** adicione o seguinte texto.
 ```json
@@ -40,7 +40,7 @@ Após você executar os seguintes códido acima, ira aparecer  algumas opções,
     }
   }
 ```
-### Step IV
+### IV Step
 > Logo depois adicione o plugin **Prettier - Code formatter** e siga os seguintes passos (VSCODE):
 
 -   Ctrl + Shit + P
@@ -54,7 +54,7 @@ Após você executar os seguintes códido acima, ira aparecer  algumas opções,
 }
 ```
 
-### Step V
+### V Step
 > Agora vamos para o passo final, adicione o plugin **EditorConfig for Visual Code** e em seguidad criar o arquivo **.editorconfig** e adicionar o seguinte codigo:
 
 ```env
