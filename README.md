@@ -7,8 +7,8 @@ Este _Style Guide_ pode ser utilizado para varias projetos em JS,
 ### I Step
 
 ```sh
-$ yarn add eslint -D
-$ yarn run eslint --init
+$ yarn add eslint -D || npm install -g eslint
+$ yarn run eslint --init || eslint --init
 ```
 ### II Step
 Após você executar os seguintes códido acima, ira aparecer  algumas opções, você deve selecionar as seguintes:
